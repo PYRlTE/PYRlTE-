@@ -31,19 +31,9 @@
   </p>
 <br>
 <br>
-<br>
-<br>
-  <table style="border: 2px solid #834E74; border-radius: 8px;">
-  <tr>
-    <td width="50%" style="padding: 20px; border-right: 2px solid #834E74;">
-      <strong style="color: #834E74;">$\color{#362C54}{\textsf{Thee}}$ $\color{#834E74}{\texttt{Jason}}$ $\color{#C4C3B1}{\texttt{Todd}}$ $\color{#A75C81}{\texttt{Of}}$ $\color{#583D64}{\texttt{PonyTown:}}$<br></strong>
-      <a href="https://github.com/entitlement-town">ــــــــــﮩ٨ـentitlement-town</a>
-  </td>
-    <td width="50%" style="padding: 20px; text-align: center;">
-   <br><br>
-    </td>
-  </tr>
-</table>
+<p align="center"">
+<img src="https://hits.sh/github.com/PYRlTE.svg?label=VAMPS!&extraCount=970&labelColor=FF2A64&color=5E0314" alt="Visitor count"><img src="https://img.shields.io/github/followers/PYRlTE?style=flat&label=BATS!&labelColor=FF2A64&color=5E0314" alt="Profile followers">
+</p>
 <br>
 <br>
 <br>
