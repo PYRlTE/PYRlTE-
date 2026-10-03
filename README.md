@@ -7,9 +7,9 @@
 <img alt="tumblr_f6fb645b0742fb4f9f98a000290ca72f_9ca95964_1280" src="https://github.com/user-attachments/assets/2ce4f1ed-4a8d-409b-9969-d5660b4cf583" />
 <br>
   <br>
-  <img alt="Untitled69_20261003111815" src="https://github.com/user-attachments/assets/6b5a91cc-e8c9-436a-ad8b-5f87c539f565" />
+  <img alt="Untitled69_20261003111815" src="https://github.com/user-attachments/assets/6b5a91cc-e8c9-436a-ad8b-5f87c539f565" /> <sub>$\color{#FF2A64}{\texttt{a 23-year old lesbian college student }}$</sub>
 </p>
-<br>
+  <br>
 <p align="center">
   <img alt="Untitled71_20261003175410" src="https://github.com/user-attachments/assets/8a4e927c-1455-4129-ba5c-9288ae62d4bd" />
   </p>
