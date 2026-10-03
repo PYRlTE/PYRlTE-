@@ -23,7 +23,8 @@
   </p>
 <br>
 <p align="center"> <img alt="Untitled69_20261002193330" src="https://github.com/user-attachments/assets/2df3e213-f744-4c4a-8361-3e99bc071b43" /> </p>
-<kbd></kbd>[<sub>PHASE</sub>](https://GitHub.com/oraclegordon)</kbd>
+
+<kbd>[<sub>PHASE</sub>](https://GitHub.com/oraclegordon)</kbd>
 <br>
 <p align="center">
   <img alt="Untitled71_20261003175410" src="https://github.com/user-attachments/assets/8a4e927c-1455-4129-ba5c-9288ae62d4bd" /> 
